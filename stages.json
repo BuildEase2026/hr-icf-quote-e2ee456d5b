@@ -1,0 +1,32 @@
+{
+ "job": "67 Hendrefoilan Road, Sketty, Swansea SA2 9LU - Mr S Sparks",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Version A - as drawn",
+   "desc": "Exactly the architect's plan: 484 Nudura 6in XR35 forms, 17 stack joints (red) where the runs are off the Nudura Bond. The base follows the falling ground 2 courses below it (-1,104, -1,562, -2,019, -2,476, -2,933), split-level slabs (front 0 / kitchen -1,500), first floor, steels, a trussed main roof (fink trusses @600, valley sets over the bays), a cut vaulted extension roof, windows and plain-wall partitions as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10796376
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Version B - Nudura Bond, no stack joints",
+   "desc": "The same house with every corner-to-corner run nudged onto the Nudura Bond (width 11,938 v 12,005, depth 9,093 v 9,158, bays / returns / extension within ~115 mm) - 470 forms and ZERO stack joints: faster to build, no joint cutting. The architect / client must accept the nudges before Version B is used.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 11949364
+    }
+   ]
+  }
+ ]
+}
